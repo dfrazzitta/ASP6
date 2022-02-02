@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TelpOEflXu35y/U7+imF/PzurNoBL6mbwxpFRftCjiBecWjp80t5tP0MbSVCs1glwpjlw7wvr1sTQofSddSDVA==",
+  "success": true,
+  "projectFilePath": "/home/dave/share/ASP6/ASP6.csproj",
+  "expectedPackageFiles": [
+    "/home/dave/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.14.0/microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

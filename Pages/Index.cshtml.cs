@@ -33,6 +33,8 @@ namespace ASP6.Pages
         }
         public void OnPostView(int id)
         {
+
+            // bullabase
             Message = "View handler fired";
         }
     }
